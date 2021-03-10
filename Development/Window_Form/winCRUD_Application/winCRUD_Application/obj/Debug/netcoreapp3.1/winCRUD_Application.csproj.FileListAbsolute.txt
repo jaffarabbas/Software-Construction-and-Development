@@ -1,0 +1,15 @@
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\bin\Debug\netcoreapp3.1\winCRUD_Application.exe
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\bin\Debug\netcoreapp3.1\winCRUD_Application.deps.json
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\bin\Debug\netcoreapp3.1\winCRUD_Application.runtimeconfig.json
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\bin\Debug\netcoreapp3.1\winCRUD_Application.runtimeconfig.dev.json
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\bin\Debug\netcoreapp3.1\winCRUD_Application.dll
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\bin\Debug\netcoreapp3.1\winCRUD_Application.pdb
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\obj\Debug\netcoreapp3.1\winCRUD_Application.csprojAssemblyReference.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\obj\Debug\netcoreapp3.1\winCRUD_Application.Form1.resources
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\obj\Debug\netcoreapp3.1\winCRUD_Application.csproj.GenerateResource.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\obj\Debug\netcoreapp3.1\winCRUD_Application.AssemblyInfoInputs.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\obj\Debug\netcoreapp3.1\winCRUD_Application.AssemblyInfo.cs
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\obj\Debug\netcoreapp3.1\winCRUD_Application.csproj.CoreCompileInputs.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\obj\Debug\netcoreapp3.1\winCRUD_Application.dll
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\obj\Debug\netcoreapp3.1\winCRUD_Application.pdb
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\winCRUD_Application\winCRUD_Application\obj\Debug\netcoreapp3.1\winCRUD_Application.genruntimeconfig.cache
