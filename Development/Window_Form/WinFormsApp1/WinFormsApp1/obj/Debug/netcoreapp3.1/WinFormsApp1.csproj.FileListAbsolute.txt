@@ -1,0 +1,16 @@
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csprojAssemblyReference.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.UpdateForm.resources

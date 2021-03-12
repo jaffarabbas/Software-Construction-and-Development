@@ -1,0 +1,13 @@
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+J:\Semester-4(Bsse)\Software-Construction-and-Development\Development\Window_Form\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
