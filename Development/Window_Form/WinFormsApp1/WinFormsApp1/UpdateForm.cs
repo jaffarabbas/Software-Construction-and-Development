@@ -28,6 +28,10 @@ namespace WinFormsApp1
                 UpdateFile(Form1.SetValueForFilePath);
                 this.Close();
             }
+            else
+            {
+                this.Close();
+            }
         }
 
         private void UpdateFile(string filepath)
